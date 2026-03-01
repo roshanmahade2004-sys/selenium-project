@@ -27,4 +27,4 @@ Project is ready to run. Execute following commands and enjoy the automatic web-
 - Run `mvn compile`
 - Run `mvn test`
 
-You can find the test result in `E2EUserJourney\target\surefire-reports\index.html`.# selenium-project
+You can find the test result in `E2EUserJourney\target\surefire-reports\index.html`.
